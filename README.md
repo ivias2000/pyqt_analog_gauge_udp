@@ -21,4 +21,5 @@ Main Application: The code initializes and starts the PyQt5 application, creates
 
 Overall, the code appears to be designed for real-time data visualization and logging, particularly for monitoring values such as phi, psi, d, x, y, z, and timer values received over a UDP network connection. However, there are some commented-out sections and unused variables, indicating that it may be a work in progress or require further development for complete functionality.
 
-Please note that this code references specific UI files ('analoggaugewidget_demo3.ui') and assumes the existence of certain UI components and widgets. To fully understand and run this code, you would need access to the complete project files and resources, including the referenced UI files.
+Please note that this code references specific UI files ('analoggaugewidget_demo3.ui') and assumes the existence of certain ![Untitled](https://github.com/ivias2000/pyqt_analog_gauge_udp/assets/125237611/25925307-251c-418a-911b-386d4054463a)
+UI components and widgets. To fully understand and run this code, you would need access to the complete project files and resources, including the referenced UI files.
